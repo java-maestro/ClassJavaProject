@@ -7,7 +7,7 @@ public class Person {
 
 
     public  void setName(String name){
-        this.name = name;
+        this.name = new String(name);
     }
     public String getName(){
         return name;

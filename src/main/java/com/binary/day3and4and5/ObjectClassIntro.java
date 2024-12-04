@@ -37,6 +37,7 @@ public class ObjectClassIntro {
         dawit2.setFee(45000);
 
 
+
         Teacher kKhan = new Teacher();
         kKhan.setName("Khan");
 
@@ -50,7 +51,6 @@ public class ObjectClassIntro {
 
         System.out.println(dawit.hashCode());
         System.out.println(dawit2.hashCode());
-
 
 
 
