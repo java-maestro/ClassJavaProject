@@ -1,4 +1,4 @@
-package com.binary.day3;
+package com.binary.day3and4and5;
 
 public class ConstuctorsInro {
     public static void main(String[] args) {
@@ -77,7 +77,7 @@ public class ConstuctorsInro {
 //        AccessModifiers
 //        This
 //        ----------------------------------
-//         Class and Objects and Attributes and Methods
+//        Class and Objects and Attributes and Methods
 
 
 
