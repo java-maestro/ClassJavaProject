@@ -1,4 +1,4 @@
-package com.binary.day6;
+package com.binary.day6and7;
 
 public class ArraysIntro {
     public static void main(String[] args) {
@@ -38,7 +38,7 @@ public class ArraysIntro {
 
         // 0,1,2,3,4,5,6,7
 
-        for(int i =0; i< numbers2.length; i++){
+        for(int i =0; i<numbers2.length; i++){
             System.out.println(numbers2[i]);
         }
 

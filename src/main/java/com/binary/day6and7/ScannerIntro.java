@@ -1,4 +1,4 @@
-package com.binary.day6;
+package com.binary.day6and7;
 
 import java.util.Scanner;
 
@@ -76,6 +76,8 @@ public class ScannerIntro {
         // Laptop
         // Table
         // Light
+
+
 
     }
 
